@@ -1,10 +1,10 @@
 /*
-* The "Hello Word!" program, just proves you can show print to terminal.
+* The "Hello World!" program, just proves you can show print to terminal.
 *
 * @author Malcolm Tompkins
 * @version 1.0
 * @since   2020-11-18
-* 
+*
 */
 
 /**
